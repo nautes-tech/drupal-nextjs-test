@@ -1,4 +1,4 @@
-name: drupal-next-test
+name: nextjs-drupal-test
 type: drupal9
 docroot: web
 php_version: "8.0"
