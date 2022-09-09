@@ -10,7 +10,7 @@ Basic [postman collection](https://documenter.getpostman.com/view/3589049/VVBavP
 
 * `composer install`
 * Import the db: `private-files/db/base-db.sql.gz`
-* Extract the public files backup `private-files/public-files-bck/public-files.tar.gz` inside `web/sites/default`
+* Extract the public files backup `private-files/public-files-bck/public-files.tar.gz` inside `web/sites/default/files`
 * Empty the caches, e.g. `ddev drush cr`
 
 
